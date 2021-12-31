@@ -1,0 +1,14 @@
+tensorflow
+tensorflow_io
+tensorflow_addons
+pillow
+lxml
+matplotlib
+pandas
+tf_slim
+pycocotools
+scipy
+dataclasses
+pyyaml
+lvis
+gin-config
